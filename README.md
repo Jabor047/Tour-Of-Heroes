@@ -1,0 +1,2 @@
+# Angular JS tutorial ; Tour Of Heroes
+> This Repo contains code written for the Angular JS tutorial from the official documentation website and was used to build intiution and understanding into the brilliance of Angular JS
